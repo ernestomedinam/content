@@ -44,7 +44,7 @@ A GIT **repository** comprises the following:
  <img height="350px" src="https://github.com/breatheco-de/content/blob/master/src/assets/images/a4fc1953-3c91-4bf4-a70a-ab4778b3277b.png?raw=true" alt="how to use git" />
 </p>
 
-The GIT repository is stored in the same directory as the project itself in a -hidden- subdirectory called .git:
+The GIT repository is stored in the same directory as the project itself in a hidden subdirectory called .git:
 
 + There is only one .git directory, located in the root directory of the project.
 + The repository is stored within the project.
